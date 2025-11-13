@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+/.Trash
+Library/
+
+q
+:q!
+.vscode/
+.idea/
+.DS_Store
+/.Trash
+Library/
+
+.vscode/
+.idea/
+node_modules/
+__pycache__/
+*.pyc
+
+EDF
+OF
