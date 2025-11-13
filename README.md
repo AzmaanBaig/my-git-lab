@@ -1,1 +1,2 @@
-This is a change from User 2
+This is the final version after resolving the conflict.
+
