@@ -1,1 +1,1 @@
-# My Git Practice Repo
+This is a change from User 2
